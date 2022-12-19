@@ -1,4 +1,4 @@
-# gliaDev.github.io
+
 Uno de los retos que se nos plantearon durante el curso de Code4Jobs para la practica de mitologías agiles fue realizar un juego de cartas de memoria en grupo en el que teníamos que coordinarnos usando la herramienta visual Trello en el que veíamos las tareas que teníamos asignadas las que estaban pendientes y las del resto de compañeros poniendo todos los conocimientos que teníamos hasta el momento con el tiempo limite de 3 dias.
 
 
